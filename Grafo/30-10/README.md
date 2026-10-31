@@ -23,6 +23,8 @@ Quando um recurso de navegação fica indisponível, a operação precisa ser re
 
 <img width="905" height="811" alt="image" src="https://github.com/user-attachments/assets/94abc66b-ddd9-4f96-a7e5-c547cae45ff9" />
 
+<img width="780" height="615" alt="image" src="https://github.com/user-attachments/assets/8cc00085-6657-45fc-9c8b-d16cc08de275" />
+
 
 | Sigla | Aeroporto (cidade) | Vizinhos |
 |---|---|---|
